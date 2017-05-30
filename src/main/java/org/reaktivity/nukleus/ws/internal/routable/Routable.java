@@ -64,7 +64,6 @@ public final class Routable extends Nukleus.Composite
 
     private final Long2ObjectHashMap<MessageHandler> streams;
 
-
     public Routable(
         Context context,
         Conductor conductor,
